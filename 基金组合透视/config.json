@@ -1,0 +1,59 @@
+{
+    "fundlist": [{
+        "name": "易方达新收益混合A",
+        "code": "001216",
+        "percent": 10,
+        "manager": "张清华"
+    },{
+        "name": "农银新能源主题",
+        "code": "002190",
+        "percent": 10,
+        "manager": ""
+    },{
+        "name": "中邮新思路灵活配置",
+        "code": "001224",
+        "percent": 10,
+        "manager": ""
+    },{
+        "name": "华安沪港深外延增长混合",
+        "code": "001694",
+        "percent": 10,
+        "manager": ""
+    },{
+        "name": "华安升级主题混合",
+        "code": "040020",
+        "percent": 10,
+        "manager": ""
+    },{
+        "name": "工银战略转型",
+        "code": "000991",
+        "percent": 10,
+        "manager": ""
+    },{
+        "name": "工银信息产业混合",
+        "code": "000263",
+        "percent": 10,
+        "manager": ""
+    },{
+        "name": "汇添富全球互联混合",
+        "code": "001668",
+        "percent": 10,
+        "manager": ""
+    },{
+        "name": "前海开源医疗健康A",
+        "code": "005453",
+        "percent": 5,
+        "manager": ""
+    },{
+        "name": "易方达消费行业股票",
+        "code": "110022",
+        "percent": 5,
+        "manager": ""
+    },{
+        "name": "易方达环保主题混合",
+        "code": "001856",
+        "percent": 10,
+        "manager": ""
+    }
+]
+}
